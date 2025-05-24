@@ -15,7 +15,7 @@ Let me introduce 😅, **My-self**.
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=3776AB&color=3776AB)
 ![Go](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=00ADD8&color=00ADD8)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=7F52FF&color=7F52FF)
-![Laravel](https://img.shields.io/badge/Framework-PHP-informational?style=flat&logo=Laravel&logoColor=FF2D20&color=FF2D20)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=FF2D20&color=FF2D20)
 ![Vue3](https://img.shields.io/badge/Framework-Vue3-informational?style=flat&logo=Vue.js&logoColor=4FC08D&color=4FC08D)
 ![Fiber](https://img.shields.io/badge/Framework-Fiber-informational?style=flat&logo=go&logoColor=00ADD8&color=00ADD8)
 ![Jetpack Compose](https://img.shields.io/badge/Framework-Jetback_compose-informational?style=flat&logo=jetpackcompose&logoColor=4285F4&color=4285F4)
