@@ -24,8 +24,19 @@ Let me introduce 😅, **My-self**.
 ![Android](https://img.shields.io/badge/Tool-Android-informational?style=flat&logo=android&logoColor=3DDC84&color=3DDC84)
 ![Github](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=BBDDE5&color=BBDDE5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPonda)
+### Github counts
 
+<table style="border: none;">
+  <tr>
+    <td style="width: 50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPonda&layout=normal&card_width=350&langs_count=10&size_weight=0.8"/>
+    </td>
+    <td style="width: 50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayPonda&theme=react-dark&bg_color=20232a&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+  
 ### Cards Profile
 
 <a href="https://app.daily.dev/jponda"><img src="https://api.daily.dev/devcards/v2/Uwe2xQw3HXBgLJpqFKi2V.png?type=default&r=8zq" width="356" alt="Jay Ponda's Dev Card"/></a>
