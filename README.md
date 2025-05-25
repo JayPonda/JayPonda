@@ -29,7 +29,7 @@ Let me introduce 😅, **My-self**.
 <table style="border: none;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPonda&layout=normal&card_width=350&langs_count=10&size_weight=0.8&disable_animations=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPonda&layout=normal&card_width=350&size_weight=0.8&disable_animations=true"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayPonda&theme=react-dark&bg_color=20232a&hide_border=true&disable_animations=true"/>
