@@ -42,6 +42,12 @@ Welcome to my **README** section.
   
 ### ⭐ Cards Profile
 
-<a href="https://app.daily.dev/jponda"><img src="https://api.daily.dev/devcards/v2/Uwe2xQw3HXBgLJpqFKi2V.png?type=default&r=8zq" width="356" alt="Jay Ponda's Dev Card"/></a>
+<table style="border: none;">
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/jponda"><img src="https://api.daily.dev/devcards/v2/Uwe2xQw3HXBgLJpqFKi2V.png?type=default&r=8zq" width="356" alt="Jay Ponda's Dev Card"/></a>
+    </td>  
+  </tr>
+</table>
 
 ## Thank you for visiting
